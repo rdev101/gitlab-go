@@ -1,2 +1,2 @@
 # gitlab-go
-Go library for gitlab
+Go wrapper for gitlab api
